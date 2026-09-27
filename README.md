@@ -8,7 +8,7 @@ A VLAN is a logical subnet, configured on a switch, that acts as a separate subn
 
 I configured routers, switches, and PC's. I added a switching port to the router. I connected 16 PC'S, 4 of it to their switch using straight-through cables. In addition, I connected the four switches to the router.
 
-<img width="2362" height="1184" alt="VLAN Topology Screenshot" src="https://github.com/user-attachments/assets/cdede484-7dec-4272-b847-f5c96d089d4b" />
+<img width="2052" height="1202" alt="VLAN Topology Screenshot" src="https://github.com/user-attachments/assets/0cd17280-6f15-41d4-bc56-57272d382c8c" />
 
 Switching Port Before
 <img width="2880" height="1826" alt="Screenshot 2026-09-13 141515" src="https://github.com/user-attachments/assets/2b512174-b2ab-410d-8814-a19eb5288a27" />
