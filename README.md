@@ -60,7 +60,7 @@ I checked VLAN's on the switch and which ports are in which VLAN's. By default, 
 <img width="1154" height="664" alt="Screenshot 2026-09-14 090438" src="https://github.com/user-attachments/assets/f3a0ea6d-c1cd-4ddb-99bd-d730ad710111" />
 <img width="1172" height="662" alt="Screenshot 2026-09-14 090654" src="https://github.com/user-attachments/assets/97a57fbf-9b07-401d-b68e-77d9c44c111b" />
 <img width="1178" height="676" alt="Screenshot 2026-09-14 090928" src="https://github.com/user-attachments/assets/8b71a05c-f0ee-4c5e-a4a7-d1a9d43a6138" />
-
+<img width="1624" height="454" alt="image" src="https://github.com/user-attachments/assets/26b5b07e-2fc1-40b2-992c-13f037f1e134" />
 
 
 # 4. Ping Test
